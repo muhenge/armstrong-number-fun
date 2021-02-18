@@ -1,0 +1,38 @@
+.myHeader{
+    background-color: blueviolet;
+    color : white;
+    
+    
+}
+h1{
+    margin-left: 350px;
+}
+#pull{
+    border : 1px solid indigo;
+    margin: 150px;
+    padding : 45px;
+    display: inline-block;
+    width : 50%;
+    height: 250px;
+    overflow: auto;
+}
+.sp{
+    color : red;
+}
+button{
+  
+    
+    border-radius: 12px;
+    
+}
+.disabled
+{
+    background-color: #DDD;
+    color: #999;
+}
+.green-color{
+    color : green;
+}
+.red-color{
+    color:red;
+}
